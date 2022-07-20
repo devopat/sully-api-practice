@@ -1,1 +1,1 @@
-web: gunicorn sully-api-practice:app rapidapipractice.wsgi --log-file -
+web: gunicorn rapidapipractice:app rapidapipractice.wsgi --log-file -
