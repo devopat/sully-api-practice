@@ -26,6 +26,7 @@ SECRET_KEY = '_-k8(w$p@11t_hj1dx*jx#t8a91z!$240&=kn$2v17@*fe#n06'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'sully-api-practice.herokuapp.com',
     'https://sully-api-practice.herokuapp.com/',
     '127.0.0.1',
 ]
